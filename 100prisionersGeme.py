@@ -1,8 +1,9 @@
 import random
-
+#A
 def main():
     pass
 
+#B
 class PrisionersGame:
     """docstring for PrisionersGame"""
     def __init__(self, num_drawers):
@@ -33,6 +34,6 @@ class PrisionersGame:
                 return True
 
         return False
-
+#C
 if __name__ == '__main__':
     main()
