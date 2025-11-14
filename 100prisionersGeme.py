@@ -13,8 +13,6 @@ def main():
 
         print('{:15}: {:5} ({:.2%})'.format(
             approach.__name__, num_victories, num_victories / NUM_REPETITIONS))
-
-
 #B
 class PrisionersGame:
     """docstring for PrisionersGame"""
